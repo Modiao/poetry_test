@@ -1,0 +1,11 @@
+[
+    {
+        "label": "helloworld",
+        "kind": 6,
+        "importPath": "modou.test",
+        "description": "modou.test",
+        "peekOfCode": "class helloworld: \n    print(\"Hello, modou is here for you\")",
+        "detail": "modou.test",
+        "documentation": {}
+    }
+]
